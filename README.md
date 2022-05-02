@@ -1,3 +1,3 @@
 # ThisOrThat
 
-![alt text](https://i.ibb.co/NCbWshJ/This-Or-That.png)
+![alt text](https://i.postimg.cc/x8wctb01/This-Or-That.png)
